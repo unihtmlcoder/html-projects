@@ -1,0 +1,881 @@
+/* CSS Document */
+
+
+
+    
+@media (min-width:320px) {
+    .container{
+        width: 95%
+    }
+}
+@media (min-width:481px) {
+    .container{
+        width: 470px
+    }
+}
+@media (min-width:641px) {
+    .container{
+        width: 630px
+    }
+}
+
+
+
+@media (min-width:768px) {
+    .container{
+        width: 750px
+    }
+}
+
+@media (min-width:992px) {
+    .container{
+        width: 980px
+    }
+}
+@media (min-width:1100px) {
+    .container{
+        width: 1080px
+    }
+}
+
+@media (min-width:1200px) {
+    .container{
+        width: 1150px;
+    }
+}
+@media (min-width:1300px) {
+    .container{
+        width: 1280px;
+    }
+}
+
+
+@media(max-width:1365px ){
+    .hamburger{
+        display: none;
+    }
+}
+
+@media(min-width:1200px ) and (max-width:1300px ){
+    .banner-content-box h2{
+        font-size: 23px;
+    }
+
+    .banner-content-box h3{
+         font-size: 23px;
+    }
+    .banner-content-box p {    
+        font-size: 15px;
+        padding: 7px 30px;   
+    }
+    .testimonials-col {   
+    margin: 0;
+    padding: 25px;
+    width: 30%;    
+}
+
+
+
+}
+
+@media (max-width:1095px){
+
+   
+}
+@media(min-width:992px ) and (max-width:1199px ){
+    .banner-content-box h2{
+        font-size: 20px;
+    } 
+     .banner-content-box h3{
+         font-size: 23px;
+    }
+    .banner-content-box p {    
+        font-size: 15px;
+        padding: 7px 30px;   
+    }   
+    .about-section-left h3{
+        font-size: 23px;
+    }
+    .Relief-Services-left h3 {
+    color: #dee3e1;
+    font-size: 22px;
+}
+.why-choose-box li {
+    display: inline-block;
+    margin: 10px 0 0 0;
+    vertical-align: top;
+    width: 49%;
+    padding: 20px;
+}
+.testimonials-col {   
+    margin: 0;
+    padding: 25px;
+    width: 30%;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+	
+
+@media (max-width:991px) {
+    .why-choose-box li {
+    display: inline-block;
+    margin: 10px 0 0 0;
+    vertical-align: top;
+    width: 49%;
+    padding: 20px;
+}
+	
+.members-area{
+    width: 56%
+}
+.menu ul{
+    float: right;
+}
+.menu ul li a{
+    font-size:14px;
+
+}
+.menu ul li{
+    padding:15px 10px 15px 7px;
+    background: none 
+}
+/*ranit 16-11-16*/ 
+.banner-content-box{
+    width: 60%;
+}
+.banner-content-box h2 {
+    font-size: 17px;
+}
+.banner-content-box h3 {
+    font-size: 18px;
+    line-height: 30px;
+}
+.banner-content-box p { 
+    font-size: 13px;    
+    line-height: 19px;
+}
+.about-section-left {
+    width: 65%;
+}
+
+.protection-right h1 {
+    font-size: 27px;
+    color: #fff;
+    line-height: 50px;
+}
+.protection-right h3 {
+    font-size: 15px;
+    color: #dee3e1;
+    line-height: 21px;
+}
+.protection-heading {
+    border-left: 10px solid #03143c;
+    color: #fff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 11px 14px;
+    margin-top: 25px;
+    font-weight: normal;
+    font-style: italic;
+}
+.protection-right > p {
+    font-size: 13px;
+    padding-top: 15px;
+    text-align: justify;
+    color: #fff;
+    line-height: 18px;
+}
+.Defence-membership {
+    border-right: 12px solid #03143c;
+    margin-top: 20px;
+    padding-right: 20px;
+    text-align: right;
+}
+.Defence-membership > h2 {
+    line-height: 25px;
+    color: #052458;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.Defence-membership > h4 {
+    line-height: 42px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #fff;
+    font-size: 16px;
+}
+.Relief-Services-right {    
+    padding-top: 54px;    
+}
+.Relief-Services-left h1 {
+    font-size: 31px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.Relief-Services-left h3 {
+    color: #dee3e1;
+    font-size: 22px;
+    line-height: 28px;
+}
+.relief-service-content {
+    border-left: 9px solid #fff;
+    color: #fff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 25px;
+    padding: 1px 19px;
+    font-style: italic;
+}
+
+.additional-services-right h1 {
+    font-size: 30px;
+    color: #03143c;
+    text-transform: uppercase;
+}
+.additional-services-right h3 {
+    color: #626262;
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.additional-services-content {
+    border-left: 5px solid #03143c;
+    color: #505050;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 30px;
+    padding: 7px 12px;
+    font-style: italic;
+}
+.additional-services-box ul li{
+    vertical-align: top;
+    font-size: 15px;
+}
+.additional-services-left{
+    width: 30%;
+}
+.additional-services-right{
+    width: 65%;
+}
+.testimonials-div {  
+    padding: 45px 0 0 0; 
+}
+.testimonials-div h1 {
+    font-size: 36px;   
+}
+.testimonials-div h3 {
+    font-size: 18px;    
+    line-height: 60px;
+}
+
+.testimonials-col {    
+    margin: 0px;
+    padding: 25px;
+    width: 33%;
+    background: url(../images/testimonial-icon.png) no-repeat left top;
+}
+.testimonials-col .testimonials-col-content {   
+    line-height: 25px;   
+}
+.testimonials-col .testimonials-name {    
+    border-left: 5px solid #03143c; 
+    font-size: 14px;
+    margin-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+}
+	
+@media (max-width:767px) {
+    
+.members-area span{
+    display: none;
+}
+.members-area a{
+    border: none;
+}
+.members-area{
+    width: 44%
+}
+.request-services a{
+    font-size: 13px
+}
+.request-services{
+    float: left;
+    margin-left: 15px
+}
+.hamburger{
+    display: block;
+}
+.menu{
+    position: fixed;
+    height: 100%;
+    background: rgba(3,20,60,.95);
+    z-index: 9999999;
+    top: 0;
+    padding:0 15px;
+    right: -100%;
+    width: 100%;
+    text-align: center;
+    
+    transition:all .5s ease;
+    -moz-transition:all .5s ease;
+    -webkit-transition:all .5s ease;
+    -o-transition:all .5s ease;
+    -ms-transition:all .5s ease;
+
+}
+.menu ul{
+    float: none;
+    display: inline-block;
+    margin:0 auto;
+    width: auto;
+    vertical-align: middle;
+    transform: translateY(50%);
+    -webkit-transform: translateY(50%);
+    -moz-transform: translateY(50%);
+    -ms-transform: translateY(50%);
+    -o-transform: translateY(50%);
+}
+.menu ul li{
+    display: block;
+    border-bottom:1px dashed #183c90;
+}
+.menu ul li a{
+    text-align: center !important;
+    font-size: 18px;
+    display: block; 
+}
+/* Ranit 16-11-16 */ 
+
+.banner-content-box {
+    width: 65%;
+}
+#banner{
+    background-attachment: inherit;
+}
+.banner-content-box h2{
+    padding-top: 50px;
+    text-align: left;
+    line-height: 30px;
+    font-size: 15px;
+}
+.banner-content-box h3{    
+    text-align: left;
+    font-size: 16px;
+}
+.banner-content-box p{
+    padding-left: 0px;
+    text-align: left;
+}
+.banner-btn{
+    text-align: left;
+}
+.about-section-left h1 {
+    font-size: 36px;   
+}
+.about-section-left h3 {   
+    font-size: 18px;    
+}
+
+.about-section-heading {
+    border-left: 5px solid #03143c; 
+    font-size: 15px;
+    line-height: 21px;
+    padding: 6px 10px;
+    margin-top: 5px;
+}
+.about-section-left > p {
+    padding-top: 15px;    
+    font-size: 13px;
+    line-height: 17px;
+}
+.get-immediate-btn {
+    background: #03143c;
+    float: left;
+    margin-top: 20px;
+    padding: 0 7px;
+    text-align: center;
+    position: relative;
+    z-index: 9;
+}
+.protection-right h1 {
+    font-size: 23px;
+}
+.protection-heading {
+    border-left: 5px solid #03143c;
+    color: #fff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+    font-size: 13px;
+    line-height: 17px;
+    padding: 6px 14px;
+    margin-top: 25px;
+    font-weight: normal;
+    font-style: italic;
+}
+.Defence-membership{
+    margin-top: 10px;
+    border-right: 5px solid #03143c;
+}
+.Defence-membership > h2 {
+    line-height: 20px;    
+    font-size: 20px;    
+}
+.Defence-membership > h4 {
+    line-height: 22px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #fff;
+    font-size: 16px;
+    padding: 15px 0;
+}
+.Defence-membership > p{
+    font-size: 14px;
+}
+.why-choose-box li{
+    display: inline-block;
+    margin: 10px 0 0 0;
+    vertical-align: top;
+    width: 49%;
+    padding: 20px;
+}
+.why-choose-div h3 {
+    font-size: 23px;
+    color: #626262;
+    font-weight: normal;
+}
+.why-choose-div h1 {
+    font-size: 36px;
+    color: #052458;
+}
+.Relief-Services-left {   
+    padding: 63px 0;
+}
+.Relief-Services-left h1 {
+    font-size: 26px;   
+    line-height: 43px;
+}
+.Relief-Services-left h3 {    
+    font-size: 17px;
+    line-height: 21px;
+}
+.relief-service-content {
+    border-left: 6px solid #fff;
+    color: #fff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+    font-size: 12px;
+    line-height: 17px;
+    margin-top: 25px;
+    padding: 6px 19px;
+    font-style: italic;
+}
+.testimonials-col {
+    margin: 10px 0;
+    padding: 20px;
+    width: 100%; 
+    border-bottom: 1px solid gainsboro;  
+}
+.testimonials-col:last-child{
+    border:none;
+}
+.testimonials-div h1 {
+    font-size: 30px;
+}
+.testimonials-div h3 {
+    font-size: 18px;
+    line-height: 45px;
+}
+.footer-navigation ul li a {   
+    font-size: 13px;
+}
+.footer-navigation ul li {    
+    padding: 0 25px 0 0px;
+}
+.Partners ul li {   
+    padding: 10px;
+    vertical-align: middle;
+}
+.Partners ul li a{
+    display: block;
+}
+.Partners {
+    padding: 0px 0 130px 0;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width:760px) {
+
+ 
+                            
+}
+
+
+@media (max-width:640px) {
+#banner .container{
+    text-align: center;
+}    
+.logo{
+    float: none;
+    width: 100%
+}
+.navigation{
+    float: none;
+    width: 100%
+}
+.logo a{
+    display: inline-block;
+    width: 40%
+}
+.header-top{
+   
+    width: auto;
+    float: none;
+    text-align: center;
+    margin-top: 30px
+}
+.members-area{
+    float: none;
+    display: inline-block;
+    width: auto
+}
+.request-services{
+    float: none;
+    display: inline-block;
+}
+.hamburger{
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin-left: 15px;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+
+/* Ranit 16-11-16*/ 
+.members-area{
+    padding:0;
+    vertical-align: top;
+}
+.members-area a{
+    display: block;
+    border:1px solid #fff;
+    padding:9px 10px;
+    text-transform: uppercase;
+}
+.request-services{
+    background: none;
+}
+.request-services a{
+    display: block;
+    border:1px solid #fff !important;
+    background: none;
+    text-transform: uppercase;
+}
+.banner-content-box {
+    width: 100%;
+    background: rgba(255,255,255,.2);
+    padding: 20px;
+}
+.banner-btn {  
+    min-height: 100px;
+    text-align: left;
+    width: 203px;
+}
+.banner-btn > span { 
+    display: block;
+    overflow: hidden;
+}
+.banner-btn > span > a {    
+    padding: 20px;    
+    font-size: 12px;
+}
+.about-section-left {
+    width: 90%;
+}
+.about-section-left > p {    
+    position: relative;
+    z-index: 9;
+}
+.protection-left {
+    float: none;
+    padding: 0px;
+    width: 100%;
+}
+.protection-right {
+    float: none;
+    width: 100%;
+}
+.why-choose-box li{
+    width: 100%;
+}
+.Relief-Services-left {
+    width: 100%;    
+}
+.Relief-Services-right{
+    display: none;
+}
+.additional-services-left {    
+    display: none;
+}
+.additional-services-right {
+    width: 100%;
+}
+.get-started-btn{
+    width: 200px;
+    margin: 20px auto;
+    float: none;
+}
+.social-icon ul li {
+    display: inline-block;
+    vertical-align: middle;
+    height: 50px;
+    margin: 5px;
+    width: 50px;
+}
+.social-icon ul li a {    
+    padding: 15px 0;
+}
+.Partners ul li a img{
+    width: 70%;
+}
+.Partners ul li {
+    padding: 0;
+    vertical-align: middle;
+    width: 24%;
+    margin: 0;
+}
+.footer-navigation ul li {
+    padding: 0 13px 0 0px;
+}
+
+
+
+
+
+
+
+}
+@media (max-width:500px) {
+    
+}
+
+@media (max-width:480px) {
+ .about-section-right {    
+    right: -47px;    
+}
+.about-section-box {  
+    padding: 40px 0 40px 0;
+}
+	
+.protection-right h1 {
+    font-size: 20px;
+    text-align: center;
+}
+.protection-right h3 {
+    font-size: 15px;
+    color: #dee3e1;
+    line-height: 21px;
+    text-align: center;
+    padding: 0 20px;
+}
+.protection-heading{
+    margin-left: 20px;
+}
+.protection-right > p{
+    text-align: justify;
+    padding:20px;
+}
+.protection-learn-more-btn {    
+    width: 200px;
+    margin: 30px auto 0 auto;
+    float: none;
+}
+.why-choose-div h1 {
+    font-size: 25px;
+    color: #052458;
+    line-height: 55px;
+}
+.why-choose-div h3 {
+    font-size: 15px;
+    color: #626262;
+    font-weight: normal;
+    line-height: 17px;
+}
+.why-choose-box {
+    padding-top: 15px;
+}
+.Relief-Services-left h1, h3{
+    text-align: center;
+}
+
+.Relief-Services-left {
+    padding: 50px 0;
+}
+.additional-services-box ul li {
+    vertical-align: top;
+    font-size: 12px;
+}
+.testimonials-col .testimonials-col-content {
+    line-height: 21px;
+    font-size: 13px;
+}
+.footer-div{
+    padding-bottom: 0;
+}
+.social-icon ul li{
+    margin: 5px 0;
+}
+.Partners ul li{
+    width: 48%;
+}
+.why-choose-heading {   
+      
+    font-size: 16px;
+    line-height: 20px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width:420px) {
+
+
+}
+
+	
+@media (max-width:390px) {
+    
+    .members-area a{
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+    .request-services{
+        margin-left: 6px;
+        padding-left: 0;
+    }
+    .request-services a{
+        font-size: 12px;
+        padding: 11px 12px;
+    }
+    .banner-content-box h2 {
+        padding-top: 0px;
+        text-align: center;
+        line-height: 24px;
+        font-size: 18px;
+    }
+    .banner-content-box h3 {
+        text-align: center;
+        font-size: 16px;
+        line-height: 29px;
+        font-size: 11px;
+    }
+    .banner-content-box p {      
+        text-align: justify;      
+        padding: 18px 10px;
+    }
+    .banner-btn {
+        min-height: 75px;
+        text-align: left;        
+        margin: 0 auto;
+    }
+
+    .logo a {        
+        width: 50%;
+    }
+.about-section-left {
+    width: 100%;
+}
+.about-section-left h1 {
+    font-size: 25px;
+    text-align: center;
+}
+.about-section-left h3 {
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+    padding-top: 15px;
+}
+.about-section-heading {    
+    font-size: 15px;
+    line-height: 19px;
+    padding: 6px 10px;
+    margin-top: 19px;
+}
+
+.about-section-left > p{
+    padding: 15px;
+}
+.get-immediate-btn span {
+    display: block;
+    font-size: 12px;
+    line-height: 11px;
+}
+.get-immediate-btn > a{
+    padding: 9px 16px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+}
+
+
+@media (max-width:365px) {
+
+
+
+}
+
+
+@media (max-width:337px){
+
+}
+
+
+
